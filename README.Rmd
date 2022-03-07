@@ -1,0 +1,15 @@
+---
+title: "How to do analysis for others without going crazy: My mistakes in consulting"
+author: "Dr. Taya Collyer"
+date: "7/03/2022"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+YouTube video:
+
+Slides: 
